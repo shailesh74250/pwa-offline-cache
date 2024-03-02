@@ -1,5 +1,10 @@
 # pwa-offline-cache
-Web page should be load in case of offline
+- Web page should be load in case of offline
+- PWA is a highly responsive website which open in browser as web page and in mobile view it feel like native mobile app. It can be adapt every device side like mobile, tablet, or laptop or desktop big screen size.
+- Whatever feature website will have same can be access in PWA.
+- We can achieve we site offline accessibility using Services workers & Caching.
+- We can intall it on home screen and it will open in full screen width which feels like native mobile app but it still uses browser to open because altimately it is a responsive website.
+
 - When to use PWA and when to use mobile native app
   - Native app use when we need more controll on hardware side like - Access Camera, Push notification, Contact list, etc.
   - Access to Native APIs: Native apps have access to device-specific APIs and hardware features, such as the camera, accelerometer, fingerprint scanner, and Bluetooth. While PWAs can leverage some of these features through browser APIs (e.g., Geolocation API, MediaDevices API), they may not have access to all native APIs, limiting the functionality of certain features.
