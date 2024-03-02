@@ -5,7 +5,8 @@
 - We can achieve we site offline accessibility using Services workers & Caching.
 - We can intall it on home screen and it will open in full screen width which feels like native mobile app but it still uses browser to open because altimately it is a responsive website.
 - Resources
-  - https://www.youtube.com/watch?v=bRoRikxgIew&list=PL8p2I9GklV46NFHdQMFBjXvxwVqtJpa2N  
+  - https://www.youtube.com/watch?v=bRoRikxgIew&list=PL8p2I9GklV46NFHdQMFBjXvxwVqtJpa2N
+  - https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7&index=1
 
 - When to use PWA and when to use mobile native app
   - Native app use when we need more controll on hardware side like - Access Camera, Push notification, Contact list, etc.
@@ -43,3 +44,10 @@
   - Social media (Native app)
 - Sometimes hybrid approch could be best, depends on requirements.
   - Flipkart
+ 
+## Push Notification
+- push notification only implement by service worker
+- server push notification to service worker and then service worker send to web page
+- Wep page need to be allowed push notification
+## Offline caching 
+- Service workers
