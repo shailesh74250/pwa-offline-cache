@@ -15,3 +15,24 @@ Web page should be load in case of offline
   - Distribution and App Stores: Native apps are distributed through app stores (e.g., Apple App Store, Google Play Store), which provide visibility, credibility, and discoverability to users. PWAs, on the other hand, rely on web-based distribution channels, which may not offer the same level of exposure or promotional opportunities as app stores.
 
   - While PWAs offer many advantages, especially in terms of cross-platform compatibility, ease of deployment, and lower development costs, they may not be suitable for all use cases, particularly those requiring advanced native capabilities or platform-specific features. It's essential to evaluate your specific requirements and user needs when choosing between a PWA and a native app. In some cases, a hybrid approach combining both PWA and native app components may offer the best solution.
+ 
+## Choose which one
+- Depends on who are the potential customers?
+- What features do they need?
+- What devices do they use?
+- Do they always have internet access?
+- What budget and deadline company have?
+  - PWA don't need seprate development and support team
+  - Native app need development team and after deploy support team
+  - PWA ASAP but native takes more time
+  - PWA less cost effective and native app are more costly
+- Depends on business
+  - Food catering (PWA)
+  - Beauty (PWA)
+  - Hospitality (PWA)
+  - Entertainment (PWA)
+  - Fintech (Native app)
+  - Healthcare (Native app)
+  - Social media (Native app)
+- Sometimes hybrid approch could be best, depends on requirements.
+  - Flipkart
